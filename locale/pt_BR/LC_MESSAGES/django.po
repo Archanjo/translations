@@ -165,7 +165,7 @@ msgstr "Distintivo comum"
 #: bets/templates/bets/matches.html:57
 #: matches/templates/matches/upcoming_matches_inline.html:11
 msgid "Time until"
-msgstr "Tempo faltando"
+msgstr "Tempo até"
 
 #: bets/templates/bets/matches.html:57
 #: changelog/templates/changelog/changelog_list.html:18
@@ -269,7 +269,7 @@ msgstr "Deletar"
 
 #: comments/templates/comments/comment_nodes.html:233
 msgid "Permalink"
-msgstr ""
+msgstr "Link Permanente"
 
 #: comments/templates/comments/comment_nodes.html:236
 msgid "Mark read"
@@ -347,7 +347,7 @@ msgstr "Heróis"
 #: meta/templates/meta/heroes.html:12
 #, python-format
 msgid "Unpicked Heroes (%(unpicked_heroes_count)s of %(heroes_count)s)"
-msgstr ""
+msgstr "Heróis Não Selecionados (%(unpicked_heroes_count)s of %(heroes_count)s)"
 
 #: custom/templates/custom/team_heroes.html:85
 #: matches/templates/tournaments/tournament_overview.html:9
@@ -386,7 +386,7 @@ msgstr "Todos os Torneios"
 #| msgctxt "Hero builds"
 #| msgid "Builds"
 msgid "builds"
-msgstr "Builds"
+msgstr "builds"
 
 #: heroes/templates/heroes/hero_builds.html:28
 #: heroes/templates/heroes/hero_counters.html:23
@@ -441,7 +441,7 @@ msgstr "Abates por partida"
 
 #: heroes/templates/heroes/hero_detail.html:5
 msgid "statistics"
-msgstr "Estatísticas"
+msgstr "estatísticas"
 
 #: heroes/templates/heroes/hero_detail.html:66
 #, fuzzy, python-format
@@ -785,11 +785,11 @@ msgstr "Oitava de Final Perdedores"
 
 #: masterleague/lc_strings.py:32
 msgid "1/16 Final"
-msgstr ""
+msgstr "1/16 de Final"
 
 #: masterleague/lc_strings.py:33
 msgid "3rd place"
-msgstr ""
+msgstr "Terceiro Lugar"
 
 #: masterleague/lc_strings.py:34
 msgid "Tiebreak"
@@ -849,13 +849,13 @@ msgstr "Junção da Ogiva"
 
 #: masterleague/lc_strings.py:51
 msgid "Hanamura"
-msgstr ""
+msgstr "Hanamura"
 
 #: masterleague/lc_strings.py:55
 #, fuzzy, python-format
 #| msgid "Altar captured. Shots fired: %(shots_fired)s."
 msgid "Altar captured. Shots fired: %(shots_fired)s."
-msgstr "Altar"
+msgstr "Altar capturado. Tiros disparados: %(shots_fired)s."
 
 #: masterleague/lc_strings.py:56
 msgid "Dragon Knight activated"
@@ -974,21 +974,21 @@ msgstr "Patch de Valira"
 
 #: masterleague/lc_strings.py:87
 msgid "Lucio Patch"
-msgstr ""
+msgstr "Patch de Lucio"
 
 #: masterleague/lc_strings.py:88
 msgid "Probius Patch"
-msgstr ""
+msgstr "Patch de Probius"
 
 #: masterleague/lc_strings.py:89
 msgid "Cassia Patch"
-msgstr ""
+msgstr "Patch de Cassia"
 
 #: masterleague/lc_strings.py:90
 #, fuzzy
 #| msgid "Greymane Patch"
 msgid "Genji Patch"
-msgstr "Patch de Greymane"
+msgstr "Patch de Genji"
 
 #: masterleague/lc_strings.py:91
 #, fuzzy
@@ -1132,7 +1132,7 @@ msgstr "Ten. Morales"
 
 #: masterleague/lc_strings.py:127
 msgid "Lucio"
-msgstr ""
+msgstr "Lúcio"
 
 #: masterleague/lc_strings.py:128
 msgid "Lunara"
@@ -1204,7 +1204,7 @@ msgstr "Tassadar"
 
 #: masterleague/lc_strings.py:145
 msgid "The Butcher"
-msgstr "O Açougueiro"
+msgstr "Açougueiro"
 
 #: masterleague/lc_strings.py:146
 msgid "The Lost Vikings"
@@ -1268,15 +1268,15 @@ msgstr "Zul'Jin"
 
 #: masterleague/lc_strings.py:161
 msgid "Probius"
-msgstr ""
+msgstr "Sondius"
 
 #: masterleague/lc_strings.py:162
 msgid "Cassia"
-msgstr ""
+msgstr "Cássia"
 
 #: masterleague/lc_strings.py:163
 msgid "Genji"
-msgstr ""
+msgstr "Genji"
 
 #: masterleague/lc_strings.py:164
 msgid "D.Va"
@@ -1288,11 +1288,11 @@ msgstr ""
 
 #: masterleague/lc_strings.py:166
 msgid "Stukov"
-msgstr ""
+msgstr "Stukov"
 
 #: masterleague/lc_strings.py:167
 msgid "Garrosh"
-msgstr ""
+msgstr "Garrosh"
 
 #: matches/forms.py:18 matches/forms.py:24 matches/forms.py:30
 #: matches/forms.py:36 teams/forms.py:113
@@ -1320,7 +1320,7 @@ msgstr "Todos os Heróis"
 #: matches/templates/admin/tabular.html:121
 #, python-format
 msgid "Add another %(verbose_name)s"
-msgstr ""
+msgstr "Adicione outro %(verbose_name)s"
 
 #: matches/templates/matches/match_detail.html:61
 #: matches/templates/matches/match_stats.html:225
@@ -1346,15 +1346,15 @@ msgstr "Bans"
 
 #: matches/templates/matches/match_detail.html:78
 msgid "Remove from favorites"
-msgstr ""
+msgstr "Remover dos favoritos"
 
 #: matches/templates/matches/match_detail.html:80
 msgid "Add to favorites"
-msgstr ""
+msgstr "Adicionar aos favoritos"
 
 #: matches/templates/matches/match_detail.html:85
 msgid "Sign in to add match to favorites"
-msgstr ""
+msgstr "Entre para adicionar partida aos favoritos"
 
 #: matches/templates/matches/match_detail.html:204
 msgid "Previous Matches"
@@ -1423,7 +1423,7 @@ msgstr "abatido por"
 
 #: matches/templates/matches/match_stats.html:180
 msgid "Nexus forces"
-msgstr ""
+msgstr "Forças do Nexus"
 
 #: matches/templates/matches/match_stats.html:250
 msgctxt "Match time"
@@ -1675,15 +1675,15 @@ msgstr "Vezes"
 
 #: meta/templates/meta/maps.html:22 teams/templates/teams/team_maps.html:16
 msgid "Shortest"
-msgstr ""
+msgstr "Mais curto(a)"
 
 #: meta/templates/meta/maps.html:23 teams/templates/teams/team_maps.html:17
 msgid "Average"
-msgstr ""
+msgstr "Média"
 
 #: meta/templates/meta/maps.html:24 teams/templates/teams/team_maps.html:18
 msgid "Longest"
-msgstr ""
+msgstr "Mais longo(a)"
 
 #: meta/templates/meta/maps.html:25
 msgctxt "Popular picks"
@@ -1698,11 +1698,11 @@ msgstr "Herói mais banido"
 
 #: meta/templates/meta/players.html:12
 msgid "Widest Hero Pool by Players"
-msgstr ""
+msgstr "Maior Variedade de Heróis"
 
 #: meta/templates/meta/players.html:52
 msgid "Smallest Hero Pool by Players"
-msgstr ""
+msgstr "Menor Variedade de Heróis"
 
 #: meta/templates/meta/players.html:94
 #, fuzzy
@@ -1733,15 +1733,15 @@ msgstr "Taxa de Performance de Jogador"
 
 #: meta/templates/meta/players.html:145 meta/templates/meta/teams.html:130
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #: meta/templates/meta/teams.html:12
 msgid "Widest Hero Pool by Teams"
-msgstr ""
+msgstr "Maior Variedade de Heróis por Equipe"
 
 #: meta/templates/meta/teams.html:47
 msgid "Smallest Hero Pool by Teams"
-msgstr ""
+msgstr "Menor Variedade de Heróis por Equipe"
 
 #: meta/templates/meta/teams.html:84
 #, fuzzy
@@ -1751,7 +1751,7 @@ msgstr "Para a Equipe"
 
 #: meta/templates/meta/teams.html:119
 msgid "Teams performance"
-msgstr ""
+msgstr "Performance de Equipes "
 
 #: meta/views.py:126
 msgid "No matches played in the selected period."
@@ -1775,35 +1775,35 @@ msgstr "Especialistas"
 
 #: meta/views.py:278 meta/views.py:367
 msgid "The highest average number of takedowns"
-msgstr ""
+msgstr "A maior média de número de abates"
 
 #: meta/views.py:289
 msgid "The highest average number of kills"
-msgstr ""
+msgstr "A maior média de número de abates"
 
 #: meta/views.py:300
 msgid "The highest average number of assists"
-msgstr ""
+msgstr "Maior média de assistências"
 
 #: meta/views.py:311
 msgid "Player that spent the most time alive"
-msgstr ""
+msgstr "Jogador com mais tempo vivo"
 
 #: meta/views.py:322
 msgid "Player that spent the most time dead"
-msgstr ""
+msgstr "JOgador com mais tempo morto"
 
 #: meta/views.py:378
 msgid "The highest average deaths"
-msgstr ""
+msgstr "Maior média de mortes"
 
 #: meta/views.py:389
 msgid "Team that spent the most time alive"
-msgstr ""
+msgstr "Equipe com mais tempo viva"
 
 #: meta/views.py:400
 msgid "Team that spent the most time dead"
-msgstr ""
+msgstr "Eqipe com mais tepo morta"
 
 #: pages/templates/calendar.html:5
 msgctxt "[SEO] Page title"
@@ -1886,7 +1886,7 @@ msgstr ""
 "jogadores e equipes de diferentes regiões e mais. Atualmente temos "
 "informação detalhada sobre <a href=\"%(match_list_url)s\"><strong>"
 "%(match_count)s</strong></a> partidas, <a href=\"%(team_list_url)s\"><strong>"
-"%(team_count)s</strong></a> equipes y <a href=\"%(player_list_url)s"
+"%(team_count)s</strong></a> equipes e <a href=\"%(player_list_url)s"
 "\"><strong>%(player_count)s</strong></a> jogadores profissionais e nossa "
 "base de dados."
 
@@ -1981,7 +1981,7 @@ msgstr "Lista de Jogadores"
 
 #: teams/forms.py:178
 msgid "Disbanded or changed a sponsor"
-msgstr ""
+msgstr "Disolvida ou com patrocinador diferente"
 
 #: teams/forms.py:181
 #, fuzzy
@@ -2052,7 +2052,7 @@ msgstr "Experiência / Min"
 
 #: teams/templates/players/player_heroes.html:47
 msgid "PPR"
-msgstr ""
+msgstr "TPJ"
 
 #: teams/templates/players/player_list.html:34
 #: teams/templates/players/players_compare.html:122
@@ -2096,7 +2096,7 @@ msgstr "Equipe"
 
 #: teams/templates/players/player_overview.html:33
 msgid "Takedowns"
-msgstr ""
+msgstr "Abates"
 
 #: teams/templates/players/player_overview.html:51
 #, fuzzy
@@ -2106,7 +2106,7 @@ msgstr "Equipes Participantes"
 
 #: teams/templates/players/player_overview.html:59
 msgid "Time Dead"
-msgstr ""
+msgstr "Tempo Morto"
 
 #: teams/templates/players/player_overview.html:68
 #, fuzzy
@@ -2122,7 +2122,7 @@ msgstr "Dano de cerco"
 
 #: teams/templates/players/player_overview.html:95
 msgid "Average Match Time"
-msgstr ""
+msgstr "Tempo Médio de Partida"
 
 #: teams/templates/players/player_overview.html:102 teams/views.py:692
 msgid "Analyzed Replays"
@@ -2246,12 +2246,12 @@ msgstr "%(win_count)s de %(pick_count)s partidas"
 #: teams/templates/teams/team_overview.html:103
 #, python-format
 msgid "Deaths: %(deaths)s"
-msgstr ""
+msgstr "Mortes: %(deaths)s"
 
 #: teams/templates/teams/team_overview.html:104
 #, python-format
 msgid "Takedowns: %(takedowns)s"
-msgstr ""
+msgstr "Abates: %(takedowns)s"
 
 #: teams/templates/teams/team_overview.html:111
 #, fuzzy, python-format
@@ -2297,11 +2297,11 @@ msgstr "Herói"
 
 #: teams/templates/teams/team_overview.html:223
 msgid "FP win rate"
-msgstr ""
+msgstr "PP taxa de vitória"
 
 #: teams/templates/teams/team_overview.html:227
 msgid "Time dead"
-msgstr ""
+msgstr "Tempo morto"
 
 #: teams/templates/teams/team_overview.html:231
 #, fuzzy
@@ -2439,7 +2439,7 @@ msgstr "Buscar"
 
 #: templates/base.html:275
 msgid "License agreement"
-msgstr ""
+msgstr "Acordo de Licença"
 
 #: templates/base.html:278
 msgid ""
@@ -2452,11 +2452,17 @@ msgid ""
 "in other ways.\n"
 "Refer to the full text of the license for the details:\n"
 "                "
-msgstr ""
+msgstr "Gostaríamos de lembrá-lo(a) que ao usar nossos dados diratamente, via o <a href="
+"\"https://api.masterleague.net/\">API</a>, ou de qualquer outra forma,\n"
+"você <strong>MUST</strong> concorda com os termos e licensa, també nos dando crédito "
+"colocando um link appropriadamente\n"
+"para o nosso site, mentionando-o no air, or deixando a fonte de informação clara "
+"de outras maneiras.\n"
+"Consulte o texto completo da licença para os detalhes:\n"
 
 #: templates/base.html:286
 msgid "I understood"
-msgstr ""
+msgstr "Eu Entendi"
 
 #: templates/base.html:328
 msgid "Help us localize the site!"
